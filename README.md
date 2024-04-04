@@ -1,7 +1,7 @@
 # CPP_IntBitVector
   Assignment in which using a native integer in C++ use bit-wise operations in order to store integers in a single int variable and extract them and compare stored values with another for union operations. 
 
-<img src="https://github.com/Kingerthanu/CPP_IntBitVector/assets/76754592/ed9f73db-b333-4667-a8eb-1caa96b32c0b" alt="Cornstarch <3" width="95" height="99">
+<img src="https://github.com/Kingerthanu/CPP_IntBitVector/assets/76754592/ed9f73db-b333-4667-a8eb-1caa96b32c0b" alt="Cornstarch <3" width="75" height="79">
 
 Actually A Super Interesting Challenge That Taught Me A Lot. It Really Made Me Realize How Abstract A Native Data Type Usually Is And How Logistical Semantics Can Give Us Nuanced Procedures In Ways Of Representing Data Relationships.
   
