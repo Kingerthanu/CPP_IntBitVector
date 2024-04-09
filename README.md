@@ -14,6 +14,17 @@ Actually A Super Interesting Challenge That Taught Me A Lot. It Really Made Me R
 
 **The Breakdown:**
 
+  This Program Uses C++ And The Terminal To Display Bit-Wise Operations And Functionality Of Integers To Store Integers Within Them Using Semantics.
+
+  The Program Starts By Requesting From User Integer Values In WHich To Store In A Given 16-Bit Integer. This Is Done For Two Integers And Using A Specified Set Of Bit-Wise Operations We Can Bit-Shift The Given Value Inside Of This Given Integer. 
+
+  By Using The Inverse Of The Entry Bit-Wise Operation We Are Able To Take Out Values As Well From The List.
+
+  As Well As This, We Are Also Gonna Show The Intersection, Union, As Well As Difference Between The Two Stored Integers. 
+
+  All This Is To Thoroughly Go Through Bit-Wise Operations And Actually What Data Looks Like Under The Hood And Some Similarities In Data We Can Get By Knowing Deep Down Data Will Be A Series Of Bits.
+
+  This Program Gave Me A Great Challenge And Made Me Learn A Lot About Data Representation And The Benefits Of Bit-Wise Operations (As Well As Their Cons If Improperly Understood).
 
 
 <img src="https://github.com/Kingerthanu/CPP_IntBitVector/assets/76754592/dd782870-1b9c-4054-8a80-be4b4d33b1cd" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_IntBitVector/assets/76754592/dd782870-1b9c-4054-8a80-be4b4d33b1cd" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_IntBitVector/assets/76754592/dd782870-1b9c-4054-8a80-be4b4d33b1cd" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_IntBitVector/assets/76754592/dd782870-1b9c-4054-8a80-be4b4d33b1cd" alt="Cornstarch <3" width="55" height="49">
@@ -32,4 +43,4 @@ Actually A Super Interesting Challenge That Taught Me A Lot. It Really Made Me R
 
 
 
-<img src="https://github.com/Kingerthanu/CPP_IntBitVector/assets/76754592/283e3415-52b5-4e2e-8d3d-ff8a400de2e4" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_IntBitVector/assets/76754592/283e3415-52b5-4e2e-8d3d-ff8a400de2e4" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_IntBitVector/assets/76754592/283e3415-52b5-4e2e-8d3d-ff8a400de2e4" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/CPP_IntBitVector/assets/76754592/283e3415-52b5-4e2e-8d3d-ff8a400de2e4" alt="Cornstarch <3" width="55" height="49">
+<img src="https://github.com/Kingerthanu/CPP_IntBitVector/assets/76754592/283e3415-52b5-4e2e-8d3d-ff8a400de2e4" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_IntBitVector/assets/76754592/283e3415-52b5-4e2e-8d3d-ff8a400de2e4" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_IntBitVector/assets/76754592/283e3415-52b5-4e2e-8d3d-ff8a400de2e4" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_IntBitVector/assets/76754592/283e3415-52b5-4e2e-8d3d-ff8a400de2e4" alt="Cornstarch <3" width="55" height="49">
